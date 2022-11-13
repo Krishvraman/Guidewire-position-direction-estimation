@@ -32,4 +32,12 @@ Stage 1 and Stage 2 result Example - Automated Pipeline:
 ![alt text](Execution_Images/Intermediate_results/9.JPG)
 
 
+Evaluation Results:
+
+![alt text](Execution_Images/Evaluation_results/r1.PNG)
+
+![alt text](Execution_Images/Evaluation_results/r2.PNG)
+
+![alt text](Execution_Images/Evaluation_results/r3.PNG)
+
 
