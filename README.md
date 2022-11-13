@@ -15,6 +15,8 @@ For more details please refere the analysis report (Report.pdf)
 
 # Guidewire tips - Predictions - Results:
 
+Input Images after preprocessing - purple bounding box indicate the location og guidewire tips:
 
+![alt text](https://github.com/TheKrishadow/Guidewire-position-direction-estimation/Execution_Images/Intermediate_results/gw1.png)
 
 
