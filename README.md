@@ -15,8 +15,21 @@ For more details please refere the analysis report (Report.pdf)
 
 # Guidewire tips - Predictions - Results:
 
-Input Images after preprocessing - purple bounding box indicate the location og guidewire tips:
+Sample input image after preprocessing - purple bounding box indicate the location og guidewire tips:
 
-![alt text](https://github.com/TheKrishadow/Guidewire-position-direction-estimation/Execution_Images/Intermediate_results/gw1.png)
+![alt text](Execution_Images/Intermediate_results/gw1.png)
+
+Stage 1 Results:
+
+![alt text](Execution_Images/1_Stage_1_Detection_result.PNG)
+
+Stage 1 and Stage 2 result Example - Automated Pipeline:
+
+![alt text](Execution_Images/2_Complete_automation.png)
+
+![alt text](Execution_Images/2_Complete_automation.png)
+
+![alt text](Execution_Images/2_Complete_automation.png)
+
 
 
