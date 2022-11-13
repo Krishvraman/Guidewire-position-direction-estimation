@@ -27,9 +27,9 @@ Stage 1 and Stage 2 result Example - Automated Pipeline:
 
 ![alt text](Execution_Images/2_Complete_automation.png)
 
-![alt text](Execution_Images/2_Complete_automation.png)
+![alt text](Execution_Images/Intermediate_results/5.JPG)
 
-![alt text](Execution_Images/2_Complete_automation.png)
+![alt text](Execution_Images/Intermediate_results/9.JPG)
 
 
 
