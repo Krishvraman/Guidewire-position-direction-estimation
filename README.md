@@ -6,7 +6,6 @@ A guidewire is a thin, flexible, medical wire inserted into the body to guide a 
 In current standard of care,  the accurate positioning of guidewires often involves trial-and- error and long fluoroscopic exposure times. To avoid these long exposure times on patients and to assist the surgeons better there is a need for an automated system to locate these guidewires and to provide real time tracking of direction and position of these guidewires.  
 
 
-
 # Project Details:
 The proposed solution is a two staged network based solution. Stage 1 uses a Faster RCNN deep framework  to locate and bound guidewire tips while stage 2 uses a resent101 based deep framework to predict the angle and offset of the guidewire tip from the bounds from stage 1. The solution as a whole is used to estimate the position (in pixels) and direction(in angle) of the guidewires in a given fluoroscopic image.
 
